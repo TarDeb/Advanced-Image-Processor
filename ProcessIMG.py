@@ -72,7 +72,7 @@ class ImageApp(QWidget):
         layout.addWidget(self.image_name_label, alignment=QtCore.Qt.AlignCenter)
 
         self.image_label = QLabel(self)
-        pixmap = QPixmap(400, 300)  # Sample size placeholder
+        pixmap = QPixmap(400, 300)  
         self.image_label.setPixmap(pixmap)
         layout.addWidget(self.image_label, alignment=QtCore.Qt.AlignCenter)
         btn_select_input = QPushButton('Select Input Folder', self)
