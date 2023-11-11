@@ -24,3 +24,5 @@ It can correct image distortion, rotate images, and extract GPS data from images
 ## App
 
 ![GUI1](Advanced-Image-Processor/img/Screenshot 2023-11-11 184713.png)
+
+![GUI1](1.png)
