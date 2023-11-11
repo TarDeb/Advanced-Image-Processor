@@ -23,5 +23,5 @@ It can correct image distortion, rotate images, and extract GPS data from images
 
 ## App
 
-![GUI1](img/1.png)
+![GUI1ff](img/1.png)
 
