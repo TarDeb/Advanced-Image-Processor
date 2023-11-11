@@ -20,3 +20,6 @@ It can correct image distortion, rotate images, and extract GPS data from images
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Advanced-Image-Processor.git
+
+## App
+![GUI1](img/Screenshot 2023-11-11 184424.png)
