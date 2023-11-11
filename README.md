@@ -1,7 +1,6 @@
 # Advanced-Image-Processor
 Process and analyze images using OpenCV and PyQt5
 It can correct image distortion, rotate images, and extract GPS data from images' EXIF metadata.
-
 ## Features
 
 - Corrects distortion in images.
