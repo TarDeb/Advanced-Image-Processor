@@ -28,5 +28,5 @@ It can correct image distortion, rotate images, and extract GPS data from images
 
 
 # Detecting Solar Panels
-![GUI1ff](img/1.png)
+![GUI1ff](img/2.png)
 
