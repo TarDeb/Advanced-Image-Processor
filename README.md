@@ -16,10 +16,8 @@ It can correct image distortion, rotate images, and extract GPS data from images
 - Pillow (for EXIF metadata extraction)
 
 ## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Advanced-Image-Processor.git
+Clone the repository:
+   
 
 ## App
 
