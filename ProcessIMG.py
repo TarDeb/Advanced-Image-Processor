@@ -157,6 +157,7 @@ class ImageApp(QWidget):
             self.current_index += 1
             self.show_image(self.image_list[self.current_index], self.output_folder_path)
 
+
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = ImageApp()
